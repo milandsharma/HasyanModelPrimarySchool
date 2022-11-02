@@ -10,7 +10,7 @@ function Library(){
         }else{
             setState(state+1)
         }
-    },2000)
+    },4000)
     return(
         <div className="LibraryMain">
             <div className="Library">

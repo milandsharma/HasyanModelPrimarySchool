@@ -14,7 +14,7 @@ setInterval(()=>{
          setCount(count+1)
         setImg(arr[count])
    }
-},3000)
+},5000)
 
 
 
